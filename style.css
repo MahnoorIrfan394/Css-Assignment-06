@@ -113,7 +113,7 @@ body {
 }
 
 .hero-left h1 {
-    font-size: clamp(35px, 4.5vw, 58px);
+    font-size: (35px, 4.5vw, 58px);
     line-height: 1.15;
     color: #222;
     margin-bottom: 22px;
